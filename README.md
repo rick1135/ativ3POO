@@ -1,7 +1,7 @@
 O objetivo é produzir um programa Java sem interface gráfica com o usuário que permita operações
 elementares (CRUD) em banco de dados considerando-se as entidades especificadas pelo diagrama de
 classes UML a seguir:
-![image_2023-06-02_202926373](https://github.com/rick1135/ativ3POO/assets/55491414/9d77f937-e2b3-4f60-a4e7-5e914724b593)
+![image_2023-06-02_204428800](https://github.com/rick1135/ativ3POO/assets/55491414/9ff3dbac-ea2a-40b9-8f79-60926482f759)
 
 As operações em banco de dados devem contemplar:
 1. inclusão de entidades Cliente;
