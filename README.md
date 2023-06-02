@@ -14,3 +14,6 @@ As operações em banco de dados devem contemplar:
 8. consulta por entidade Contrato específica;
 9. consulta por todas as entidades Contrato persistidas;
 10. remoção de entidade Contrato específica.
+
+Ao finalizar e executar o código, é mostrado o seguinte resultado:
+![image_2023-06-02_204614234](https://github.com/rick1135/ativ3POO/assets/55491414/5e6c6557-e0aa-4377-a7a2-8ba46f0e8e28)
